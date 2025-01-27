@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "apireturns", "apireturns\apireturns.csproj", "{5C3AE30F-6004-482F-BF27-D17F5F0C37F1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C3AE30F-6004-482F-BF27-D17F5F0C37F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C3AE30F-6004-482F-BF27-D17F5F0C37F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C3AE30F-6004-482F-BF27-D17F5F0C37F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C3AE30F-6004-482F-BF27-D17F5F0C37F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE127B32-27B8-4B25-87BF-8B8617285B22}
+	EndGlobalSection
+EndGlobal
